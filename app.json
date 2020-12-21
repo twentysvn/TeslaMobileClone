@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Latihan",
+    "githubUrl": "https://github.com/twentysvn/TeslaMobileClone.git"
   }
 }
